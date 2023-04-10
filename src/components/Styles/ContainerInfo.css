@@ -1,0 +1,41 @@
+
+
+.ContainerInfo__title {
+    color: var(--white);
+    text-align: center;
+    font-weight: 400;
+    font-size: 32px; 
+    text-shadow: 2px 2px 1px #9F84C5;
+    text-transform: uppercase;
+    line-height: 41.31px;
+    bottom: 50px;
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+
+.ContainerInfo__phrase {
+    margin: auto;
+    padding: 70px 33px 70px 33px;
+    width: 452.52px;
+    height: 245px;
+    border-radius: 39px;
+    text-align: center;
+    background-position: center;
+    color: #25063F;
+    background-color: rgba(255, 255, 255, 0.642);
+    line-height: 1.5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ContainerInfo__author {
+    color: var(--white);
+    font-weight: lighter;
+    text-align: center;
+    padding: 10px 20px;
+    position: absolute;
+    bottom: 15px;
+    left: 50%;
+    transform: translateX(-50%)
+}
